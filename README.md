@@ -5,7 +5,7 @@ Since there doesn't YET exist the ability to download all of your media en masse
 
 The interface itself is pretty simple, not too much to worry about. Here's the steps for usage:
 1.  Choose your options on the screen
-2.  Click the Download button
+2.  Click the Download button and select your "pixelfed-statuses.json" file that you downloaded from the PixelFed instance, then choose your final output directory to place the files at.
 3.  Wait for the results, which will be shown in the final MessageBox
 4.  Check out the status TextBox in case you want to see ALL the details of exactly what the program did.
 
