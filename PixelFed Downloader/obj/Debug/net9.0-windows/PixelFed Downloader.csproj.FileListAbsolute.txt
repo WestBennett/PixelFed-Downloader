@@ -1,0 +1,16 @@
+C:\Users\westl\source\repos\PixelFed Downloader\PixelFed Downloader\bin\Debug\net9.0-windows\PixelFed Downloader.exe
+C:\Users\westl\source\repos\PixelFed Downloader\PixelFed Downloader\bin\Debug\net9.0-windows\PixelFed Downloader.deps.json
+C:\Users\westl\source\repos\PixelFed Downloader\PixelFed Downloader\bin\Debug\net9.0-windows\PixelFed Downloader.runtimeconfig.json
+C:\Users\westl\source\repos\PixelFed Downloader\PixelFed Downloader\bin\Debug\net9.0-windows\PixelFed Downloader.dll
+C:\Users\westl\source\repos\PixelFed Downloader\PixelFed Downloader\bin\Debug\net9.0-windows\PixelFed Downloader.pdb
+C:\Users\westl\source\repos\PixelFed Downloader\PixelFed Downloader\obj\Debug\net9.0-windows\PixelFed_Downloader.MainForm.resources
+C:\Users\westl\source\repos\PixelFed Downloader\PixelFed Downloader\obj\Debug\net9.0-windows\PixelFed Downloader.csproj.GenerateResource.cache
+C:\Users\westl\source\repos\PixelFed Downloader\PixelFed Downloader\obj\Debug\net9.0-windows\PixelFed Downloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\westl\source\repos\PixelFed Downloader\PixelFed Downloader\obj\Debug\net9.0-windows\PixelFed Downloader.AssemblyInfoInputs.cache
+C:\Users\westl\source\repos\PixelFed Downloader\PixelFed Downloader\obj\Debug\net9.0-windows\PixelFed Downloader.AssemblyInfo.cs
+C:\Users\westl\source\repos\PixelFed Downloader\PixelFed Downloader\obj\Debug\net9.0-windows\PixelFed Downloader.csproj.CoreCompileInputs.cache
+C:\Users\westl\source\repos\PixelFed Downloader\PixelFed Downloader\obj\Debug\net9.0-windows\PixelFed Downloader.dll
+C:\Users\westl\source\repos\PixelFed Downloader\PixelFed Downloader\obj\Debug\net9.0-windows\refint\PixelFed Downloader.dll
+C:\Users\westl\source\repos\PixelFed Downloader\PixelFed Downloader\obj\Debug\net9.0-windows\PixelFed Downloader.pdb
+C:\Users\westl\source\repos\PixelFed Downloader\PixelFed Downloader\obj\Debug\net9.0-windows\PixelFed Downloader.genruntimeconfig.cache
+C:\Users\westl\source\repos\PixelFed Downloader\PixelFed Downloader\obj\Debug\net9.0-windows\ref\PixelFed Downloader.dll

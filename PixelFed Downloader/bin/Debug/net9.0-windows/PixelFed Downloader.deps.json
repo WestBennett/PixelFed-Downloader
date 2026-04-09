@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PixelFed Downloader/1.0.0": {
+        "runtime": {
+          "PixelFed Downloader.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PixelFed Downloader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
